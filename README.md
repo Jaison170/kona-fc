@@ -28,3 +28,8 @@ Built with HTML5, CSS3, JavaScript (ES6+), and Bootstrap 5.
 Jaison Otiene
 Strathmore University — Web Application Development (BBT 2102)
 2026
+## Repository
+https://github.com/Jaison170/kona-fc
+
+## Deployment
+Site can be viewed via GitHub Pages or by opening index.html locally.
