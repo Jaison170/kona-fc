@@ -142,3 +142,15 @@ body.light-mode .footer-kona { background: #e0e0e0; }
   .section-pad { padding: 3rem 0; }
   .navbar-kona .nav-link.active { border-bottom: none; border-left: 3px solid var(--kona-red); padding-left: 0.75rem !important; }
 }
+.text-center.py-3 a {
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: color var(--transition);
+}
+.text-center.py-3 a:hover { color: var(--kona-red); }
+
+@media (max-width: 576px) {
+  .card-kona { margin-bottom: 1rem; }
+  .btn-kona { width: 100%; text-align: center; }
+}
